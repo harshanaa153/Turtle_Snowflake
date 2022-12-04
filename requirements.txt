@@ -1,1 +1,3 @@
 I have used pycharm and python 3.10 verision
+packages:numpy
+         turtle
